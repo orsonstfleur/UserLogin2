@@ -1,4 +1,4 @@
-![OctoLaundry](public/laundry.jpg)
+![OctoLaundry](laundry.gif)
 ## Installation
 
 1. Clone repo
